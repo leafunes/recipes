@@ -30,7 +30,8 @@ La idea general es hacer un pan suave, tipo pan lactal, con miga suave y corteza
 - Si queremos hacer un pre-fermento podemos hacer poolish:
   - 0.5 (200g) harina
   - 0.5 (200g) agua (acá ya nos pasamos de la hidratacion original, que es de 0.45)
-  - 0.05-0.1 (20-50g) de leche en polvo extra
+  - 0.05-0.1 (20-50g) de leche en polvo extra}
+  - Si hacemos el pre-fermento, podemos cambiar el agua del TZ por leche
 - Modificar la cantidad de levadura en base al tiempo de fermentación que tengamos, a la temperatura ambiente, y al sabor que querramos obtener. Yo creo que a una temperatura templada (25°C), con 0.01 (5g) deberia alcanzar para poder hacerse en cuatro horas, y tener un buen sabor (Se puede agregar el pre-fermento para aumentar el sabor)
 - Agregar un 0.05 a 0.1 de leche
 - Podemos dividir la harina en 000 y 0000. En principio 60/40 esta bien
