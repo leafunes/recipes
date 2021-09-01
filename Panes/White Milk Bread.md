@@ -15,22 +15,22 @@ La idea general es hacer un pan suave, tipo pan lactal, con miga suave y corteza
 
 | Ingrediente           | Anotación                     | Porcentaje panadero    |
 |-----------------------|-------------------------------|------------------------|
-| 400g Harina           | Podemos dividir en 000 y 0000 | 1                      |
+| 500g Harina           | Si o si 000 de fuerza alta    | 1                      |
 | 1 Huevo               | Peso 50g aprox                | 0.11                   |
-| 180g Leche            | Hidr. de 0.45                 | 0.45                   |
-| 45g Azúcar            |                               | 0.11                   |
-| 8g Sal                |                               | 0.02                   |
+| 180g Leche            | Hidr. de 0.35                 | 0.35                   |
+| 50g Azúcar            |                               | 0.1                    |
+| 10g Sal               |                               | 0.02                   |
 | 5-10g Levadura Fresca |                               | 0.01-0.02              |
-| 8g Leche en polvo     |                               | 0.02                   |
-| 45g Manteca           |                               | 0.11                   |
-| 144g Tangzhong        | 24g de harina y 120g de agua  | 0.06 harina y 0.3 agua |
+| 10g Leche en polvo    |                               | 0.02                   |
+| 50g Manteca           |                               | 0.1                    |
+| 180g Tangzhong        | 30g de harina y 150g de agua  | 0.06 harina y 0.3 agua |
 
 ## Modificaciones posibles
 
 - Si queremos hacer un pre-fermento podemos hacer poolish:
-  - 0.5 (200g) harina
-  - 0.5 (200g) agua (acá ya nos pasamos de la hidratacion original, que es de 0.45)
-  - 0.05-0.1 (20-50g) de leche en polvo extra}
+  - 0.2 (100g) harina
+  - 0.2 (100g) agua 
+  - 0.02-0.04 (10-20g) de leche en polvo extra
   - Si hacemos el pre-fermento, podemos cambiar el agua del TZ por leche
 - Modificar la cantidad de levadura en base al tiempo de fermentación que tengamos, a la temperatura ambiente, y al sabor que querramos obtener. Yo creo que a una temperatura templada (25°C), con 0.01 (5g) deberia alcanzar para poder hacerse en cuatro horas, y tener un buen sabor (Se puede agregar el pre-fermento para aumentar el sabor)
 - Agregar un 0.05 a 0.1 de leche
@@ -39,12 +39,12 @@ La idea general es hacer un pan suave, tipo pan lactal, con miga suave y corteza
 
 ## ¿Cuanta hidratación tengo?
 
-    0.45 leche + 0.75 * 0.11 huevo + 0.2 + 0.11 manteca
-    0.45 + 0.0825 + 0.022
-    0.5546
+    0.35 leche + 0.75 * 0.11 huevo + 0.2 + 0.11 manteca
+    0.35 + 0.0825 + 0.022
+    0.4546
 
 ## ¿Cuanta hidratación tengo con el TZ?
 
-    0.5545 + 0.3
-    0.85
+    0.4545 + 0.3
+    0.75
 
